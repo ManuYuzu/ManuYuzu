@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+It will be pretty and fully of information soon 😅
+It's gonna be legen...WAIT FOR IT
+
 <!--
 **ManuYuzu/ManuYuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
