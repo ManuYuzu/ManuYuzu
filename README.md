@@ -8,6 +8,8 @@
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/manuaglez/)
-[GitHub](https://github.com/ManuYuzu)
-[HackerRank](https://www.hackerrank.com/manuaglez)
+[LinkedIn](https://www.linkedin.com/in/manuaglez/) <br />
+[GitHub](https://github.com/ManuYuzu) <br />
+[HackerRank](https://www.hackerrank.com/manuaglez) <br />
+
+
