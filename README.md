@@ -1,5 +1,7 @@
 # Manu Glez - Full-Stack Dev 
 
+![Codewars](https://www.codewars.com/users/ManuYuzu/badges/micro)
+
 ### Hi! Nice to see you here 👋
 
 💻 I am a Junior Full-Stack Web Developer MEVN.
@@ -58,4 +60,3 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 
-![Codewars](https://www.codewars.com/users/ManuYuzu/badges/micro)
