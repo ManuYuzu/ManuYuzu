@@ -4,7 +4,7 @@
 
 ### Hi! Nice to see you here 👋
 
-💻 I am a Junior Full-Stack Web Developer MEVN. <br />
+💻 I am a Junior Full-Stack Web Developer. <br />
 📖 Currently learning new Techs and improving my skills on JS and CSS. <br />
 📍 Based on Canary Islands, Spain. <br />
 
