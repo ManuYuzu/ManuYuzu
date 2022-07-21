@@ -1,4 +1,4 @@
-# Manu Glez - Full-Stack Dev 
+# Manu Glez - Frontend Software Engineer
 
 ![Codewars](https://www.codewars.com/users/ManuYuzu/badges/micro)
 
