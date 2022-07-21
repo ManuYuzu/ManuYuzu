@@ -4,8 +4,7 @@
 
 ### Hi! Nice to see you here 👋
 
-💻 I am a Junior Full-Stack Web Developer. <br />
-📖 Currently learning new Techs and improving my skills on JS and CSS. <br />
+💻 Frontend Software Engenieer at Empathy.co <br />
 📍 Based on Canary Islands, Spain. <br />
 
 ## Contact
