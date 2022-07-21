@@ -1,4 +1,4 @@
-# Manuel A. González Afonso - Frontend Software Engineer
+# Manu González - Frontend Software Engineer
 
 ![Codewars](https://www.codewars.com/users/ManuYuzu/badges/micro)
 
