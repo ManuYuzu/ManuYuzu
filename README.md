@@ -1,10 +1,10 @@
-# Manu González - Frontend Software Engineer
+# Manu González - Frontend Developer
 
 ![Codewars](https://www.codewars.com/users/ManuYuzu/badges/micro)
 
 ### Hi! Nice to see you here 👋
 
-💻 Frontend Software Engenieer at Empathy.co <br />
+💻 Frontend Developer at PreventorOnline <br />
 📍 Based on Canary Islands, Spain. <br />
 
 ## Contact
