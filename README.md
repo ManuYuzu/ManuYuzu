@@ -11,7 +11,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/manuaglez/) <br />
 [GitHub](https://github.com/ManuYuzu) <br />
-[HackerRank](https://www.hackerrank.com/manuaglez) <br />
 
 ## Hard Skills
 
