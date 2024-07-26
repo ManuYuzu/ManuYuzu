@@ -4,7 +4,7 @@
 
 ### Hi! Nice to see you here 👋
 
-💻 Frontend Developer at PreventorOnline <br />
+💻 Frontend Developer <br />
 📍 Based on Canary Islands, Spain. <br />
 
 ## Contact
