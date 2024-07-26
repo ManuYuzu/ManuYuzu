@@ -1,7 +1,5 @@
 # Manu González - Frontend Developer
 
-![Codewars](https://www.codewars.com/users/ManuYuzu/badges/micro)
-
 ### Hi! Nice to see you here 👋
 
 💻 Frontend Developer <br />
