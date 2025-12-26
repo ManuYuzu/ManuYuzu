@@ -8,7 +8,6 @@
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/manuaglez/) <br />
-[GitHub](https://github.com/ManuYuzu) <br />
 
 ## Hard Skills
 
